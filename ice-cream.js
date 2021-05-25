@@ -5,3 +5,5 @@ var firstFlavour = iceCreamFlavours[0];
 console.log(firstFlavour);
 var lastFlavour = iceCreamFlavours[5];
 console.log(lastFlavour);
+var totalFlavours = iceCreamFlavours.length;
+console.log(toatalFlavours);
